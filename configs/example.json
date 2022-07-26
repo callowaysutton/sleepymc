@@ -1,6 +1,6 @@
 {
     "domainName": "mc.example.com",
-    "proxyTo": "99.33.36.123:25567",
+    "proxyTo": "127.0.0.1:25567",
     "timeout": 1000,
     "containerTimeout": 60000,
     "disconnectMessage": "\u00A72\u00A7l{{domain}} \u00A7r\u00A76is now starting up!\n\u00A78Please come back in 30-45 seconds...",
@@ -43,7 +43,7 @@
       },
      "pterodactyl": {
         "ServerUUID": "6beea7a0-bdc4-4679-8c3e-8147b6c8ac6b",
-        "PanelURL": "mc.example.com",
+        "PanelURL": "panel.example.com",
         "Key": "User API Key"
     }
 }
