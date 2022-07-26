@@ -1,0 +1,49 @@
+{
+    "domainName": "mc.example.com",
+    "proxyTo": "99.33.36.123:25567",
+    "timeout": 1000,
+    "containerTimeout": 60000,
+    "disconnectMessage": "\u00A72\u00A7l{{domain}} \u00A7r\u00A76is now starting up!\n\u00A78Please come back in 30-45 seconds...",
+    "offlineStatus": {
+        "versionName": "\u00A7e▶ \u00A76\u00A7lSleeping",
+        "protocolNumber": 0,
+        "maxPlayers": 2,
+        "playersOnline": 2,
+        "motd": "      \u00A7e\u00A7lThe server is currently sleeping...",
+        "playerSamples": [
+            {
+                "name": "\u00A7cServer is Sleeping!",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            },
+            {
+                "name": "\u00A77\u00A7l~~~~~~~~",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            },
+            {
+                "name": "You can either start by joining",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            },
+            {
+                "name": "the server or by starting it ",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            },
+            {
+                "name": "through the web panel!",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            },
+            {
+                "name": " ",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            },
+            {
+                "name": "\u00A7fMade possible by \u00A7a\u00A7l\u00A7oBasilisk Hosting",
+                "uuid": "ec561538-f3fd-461d-aff5-086b22154bce"
+            }
+          ]
+      },
+     "pterodactyl": {
+        "ServerUUID": "6beea7a0-bdc4-4679-8c3e-8147b6c8ac6b",
+        "PanelURL": "mc.example.com",
+        "Key": "User API Key"
+    }
+}
