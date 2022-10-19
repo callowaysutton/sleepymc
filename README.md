@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/github/license/haveachin/infrared)](https://raw.githubusercontent.com/haveachin/infrared/master/LICENSE)
 
 # SleepyMC a fork of Infrared - a Minecraft Proxy
+## Messed up the forking process, trying to fix!
 
 An ultra lightweight Minecraft reverse proxy and idle placeholder:
 Ever wanted to have only one exposed port on your server for multiple Minecraft servers?
